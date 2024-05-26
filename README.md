@@ -20,7 +20,7 @@ On the back-end, I worked on the database design and implementation, as well as 
 Overall, my contributions to this project included a range of front-end and back-end tasks, which enabled the creation of a user-friendly and functional blog page.
 
 ## E-commerce Section 
-### ✏️  By Kevin La
+### ✏️  By Kevin La (陳家禾)
 
 ![ecommerce_landing](https://user-images.githubusercontent.com/46846552/224605597-408d2e53-f0fd-4526-8357-97cb061915da.JPG)
 
